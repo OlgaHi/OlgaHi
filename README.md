@@ -1,22 +1,18 @@
 
-
-
-
   <h1> 🖐 Hi there! 🖐 </h1>
   
-  <img src="header.jpg" border="2px #ffffff solid" height="200px" width="200px" align="right">
+  <img src="header.jpg" border="2px #ffffff solid" height="180px" width="180px" align="right">
  
                           
 -  📍  I'm currently working on <a href="https://github.com/OlgaHi/Union">**my capstone project**!</a>
 - 🌱 I’m currently learning React, Redux, Node.js, Express, MongoDB
 - 👍 Find me on: [https://www.linkedin.com/in/olha-hizhytska/](linkedin.com/in/olha-hizhytska/)
-
 - 📫 How to reach me: **olgainfotech@gmail.com**
 - 🤝 Believe in humanity 
 
 
+<br>
 
-#
 ### Tools and Languages:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" /></code><code><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code><code><img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>
@@ -24,5 +20,5 @@
 
 #
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api/?username=OlgaHi&show_icons=true&count_private=true&theme=vision-friendly-dark" width="53%" /><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaHi&layout=compact&theme=vision-friendly-dark" width="44%"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/?username=OlgaHi&show_icons=true&count_private=true&theme=vision-friendly-dark" width="53%" /><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaHi&layout=compact&theme=vision-friendly-dark" width="44%"/>
 
