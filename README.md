@@ -4,8 +4,7 @@
   <img src="header.jpg" border="2px #ffffff solid" height="180px" width="180px" align="right">
  
                           
--  📍  I'm currently working on <a href="https://github.com/OlgaHi/Union">**my capstone project**!</a>
-- 🌱 I’m currently learning React, Redux, Node.js, Express, MongoDB
+-  📍 I’m currently learning Java and Spring Boot
 - 👍 Find me on: [https://www.linkedin.com/in/olha-hizhytska/](linkedin.com/in/olha-hizhytska/)
 - 📫 How to reach me: **olgainfotech@gmail.com**
 - 🤝 Believe in humanity 
